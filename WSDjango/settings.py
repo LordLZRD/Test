@@ -10,20 +10,13 @@ env_path = Path(".") / ".env"
 load_dotenv(dotenv_path=env_path)
 
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
-
-# SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ["SECRET_KEY"]
-# SECRET_KEY = 'django-insecure-7c1g9^ppr2!%5!h7vmgv5%5#shj38n5oc_ga&x1bkurzno+(v+'
 
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = []
 
 
-# Application definition
 
 INSTALLED_APPS = [
     "django.contrib.admin",
@@ -67,9 +60,6 @@ TEMPLATES = [
 WSGI_APPLICATION = "WSDjango.wsgi.application"
 
 
-# Database
-# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
-
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
@@ -104,9 +94,6 @@ CELERY_BROKER_URL = "redis://redis:6379/0"
 CELERY_RESULT_BACKEND = "db+postgresql://postgres:postgres@db:5432/postgres"
 
 
-# Password validation
-# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
-
 AUTH_PASSWORD_VALIDATORS = [
     {
         "NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator",
@@ -123,9 +110,6 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-# Internationalization
-# https://docs.djangoproject.com/en/5.0/topics/i18n/
-
 LANGUAGE_CODE = "ru"
 
 TIME_ZONE = "UTC"
@@ -134,9 +118,6 @@ USE_I18N = True
 
 USE_TZ = True
 
-
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/5.0/howto/static-files/
 
 STATIC_URL = "static/"
 
