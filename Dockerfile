@@ -10,5 +10,3 @@ COPY ./django-entrypoint.sh /django-entrypoint.sh
 RUN chmod +x /django-entrypoint.sh
 
 EXPOSE 8000
-
-#ENTRYPOINT ["/django-entrypoint.sh"]
