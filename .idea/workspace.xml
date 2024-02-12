@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9df0cad6-dbc1-4329-be3c-d28db75a8736" name="Changes" comment="some changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;LordLZRD&quot;,
+      &quot;reviewState&quot;: &quot;NO_REVIEW&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LordLZRD&quot;,
+    &quot;reviewState&quot;: &quot;NO_REVIEW&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6778dfab-efd8-4088-b193-7ebfb4d054d5" />
+        <option name="url" value="https://github.com/LordLZRD/WS-Django" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2aXAA7St5rODCDPd1ILAs7u4v9E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Django Server.WSDjango.executor": "Run",
+    "Python.manage.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "/home/liza/PythonProjects/WSDjango",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/celery" />
+      <recent name="$PROJECT_DIR$/Celery" />
+      <recent name="$PROJECT_DIR$/WSDjango" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WSDjango" type="Python.DjangoServer" factoryName="Django server">
+      <module name="WSDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df0cad6-dbc1-4329-be3c-d28db75a8736" name="Changes" comment="" />
+      <created>1704454405636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704454405636</updated>
+      <workItem from="1704454419093" duration="390000" />
+      <workItem from="1704455338764" duration="45000" />
+      <workItem from="1704455882478" duration="6636000" />
+      <workItem from="1704714408122" duration="16000" />
+      <workItem from="1704714447896" duration="4619000" />
+      <workItem from="1704787774299" duration="21042000" />
+      <workItem from="1704882679646" duration="3864000" />
+      <workItem from="1704888003494" duration="3386000" />
+      <workItem from="1704969855109" duration="6297000" />
+      <workItem from="1705060682027" duration="8005000" />
+      <workItem from="1705322026629" duration="2036000" />
+      <workItem from="1705326852270" duration="2805000" />
+      <workItem from="1705402049623" duration="1660000" />
+      <workItem from="1705493671595" duration="249000" />
+      <workItem from="1705493944823" duration="3182000" />
+      <workItem from="1705588283177" duration="33000" />
+      <workItem from="1705669317250" duration="2112000" />
+      <workItem from="1705671564620" duration="382000" />
+      <workItem from="1705672430112" duration="2549000" />
+      <workItem from="1705681547622" duration="1164000" />
+      <workItem from="1705683831527" duration="1962000" />
+      <workItem from="1705706613209" duration="2668000" />
+      <workItem from="1705910869750" duration="4579000" />
+      <workItem from="1705926668534" duration="739000" />
+      <workItem from="1705927923157" duration="1290000" />
+      <workItem from="1705930038865" duration="326000" />
+      <workItem from="1706001329308" duration="956000" />
+      <workItem from="1706081668514" duration="5964000" />
+      <workItem from="1706095669940" duration="2866000" />
+      <workItem from="1706127901029" duration="2111000" />
+      <workItem from="1706133538623" duration="5675000" />
+      <workItem from="1706178125902" duration="422000" />
+      <workItem from="1706184198017" duration="5482000" />
+      <workItem from="1706208246760" duration="636000" />
+      <workItem from="1706287313610" duration="2197000" />
+      <workItem from="1706521503457" duration="8649000" />
+      <workItem from="1706544634646" duration="718000" />
+      <workItem from="1706608123328" duration="2388000" />
+      <workItem from="1706786292512" duration="2124000" />
+      <workItem from="1707122992469" duration="1246000" />
+      <workItem from="1707126316668" duration="121000" />
+      <workItem from="1707126451848" duration="693000" />
+      <workItem from="1707127159830" duration="209000" />
+      <workItem from="1707127517930" duration="302000" />
+      <workItem from="1707127970505" duration="2549000" />
+      <workItem from="1707476609893" duration="3442000" />
+      <workItem from="1707732027245" duration="768000" />
+      <workItem from="1707734986584" duration="960000" />
+      <workItem from="1707735967171" duration="897000" />
+      <workItem from="1707736889564" duration="130000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initialization">
+      <option name="closed" value="true" />
+      <created>1706528401708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706528401708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initialization">
+      <option name="closed" value="true" />
+      <created>1706544750271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706544750271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initialization">
+      <option name="closed" value="true" />
+      <created>1706787441812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706787441812</updated>
+    </task>
+    <task id="LOCAL-00004" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1707123050266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707123050267</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1707123250475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707123250475</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1707735817851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707735817851</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initialization" />
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WSDjango$manage.coverage" NAME="manage Coverage Results" MODIFIED="1704454471195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
