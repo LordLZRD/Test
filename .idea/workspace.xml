@@ -5,7 +5,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9df0cad6-dbc1-4329-be3c-d28db75a8736" name="Changes" comment="some changes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoList/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consumer/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsumerHistory/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Offer/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saloon/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaloonHistory/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WSDjango/default_mixin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12_02_2024,_13_43_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12_02_2024__13_43__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WSDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/WSDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/health/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,30 +173,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Django Server.WSDjango.executor&quot;: &quot;Run&quot;,
-    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/liza/PythonProjects/WSDjango&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Django Server.WSDjango.executor": "Run",
+    "Python.manage.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature__models",
+    "last_opened_file_path": "/home/liza/PythonProjects/drfsite",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/celery" />
@@ -215,6 +296,12 @@
       <workItem from="1707734986584" duration="960000" />
       <workItem from="1707735967171" duration="897000" />
       <workItem from="1707736889564" duration="130000" />
+      <workItem from="1707811561210" duration="2122000" />
+      <workItem from="1707814481651" duration="5260000" />
+      <workItem from="1707910830161" duration="8863000" />
+      <workItem from="1708081299400" duration="2670000" />
+      <workItem from="1708337621958" duration="6086000" />
+      <workItem from="1708418083939" duration="5633000" />
     </task>
     <task id="LOCAL-00001" summary="Initialization">
       <option name="closed" value="true" />
@@ -264,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707735817851</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1707738173064</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707738173064</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
