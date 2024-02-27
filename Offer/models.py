@@ -4,9 +4,9 @@ from django_countries.fields import CountryField
 
 class Offer(models.Model):
     id = models.BigAutoField(primary_key=True)
-    auto_id = models.ForeignKey('Auto', on_delete=models.PROTECT)  # How to choose a car?
-    max_money_offer = models.DecimalField()
-    consumer_id = models.ForeignKey('Consumer', on_delete=models.PROTECT, null=True)
+    auto_id = models.ForeignKey('Auto.Auto', on_delete=models.PROTECT)  # How to choose a car?
+    max_money_offer = models.DecimalField(decimal_places=2, max_digits=20)
+    consumer_id = models.ForeignKey('Consumer.Consumer', on_delete=models.PROTECT, null=True)
 
     is_active = models.BooleanField()
     create_time = models.DateTimeField()

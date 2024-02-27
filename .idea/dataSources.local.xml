@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="PY-233.13763.11">
-    <data-source name="WSDjango@localhost" uuid="9075cc02-61d5-4f97-b681-54ab75eb8a54">
+    <data-source name="WSDjango@localhost" uuid="2d1f8c08-5038-471e-8fb6-895772d7d203">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
       <schema-mapping />
     </data-source>

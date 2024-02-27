@@ -27,6 +27,14 @@ INSTALLED_APPS = [
     "drf_yasg",
     "health",
     "Saloon",
+    "Auto",
+    "AutoList",
+    "Consumer",
+    "ConsumerHistory",
+    "Dealer",
+    "Offer",
+    "SaloonHistory",
+    "Stock",
 ]
 
 MIDDLEWARE = [

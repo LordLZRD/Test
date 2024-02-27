@@ -5,6 +5,15 @@ from drf_yasg.views import get_schema_view
 from rest_framework import permissions, routers
 
 from health.views import HealthViewSet
+from Saloon.views import SaloonViewSet
+from Auto.views import AutoViewSet
+from AutoList.views import AutoListViewSet
+from Consumer.views import ConsumerViewSet
+from ConsumerHistory.views import ConsumerHistoryViewSet
+from Dealer.views import DealerViewSet
+from Offer.views import OfferViewSet
+from SaloonHistory.views import SaloonHistoryViewSet
+from Stock.views import StockViewSet
 
 schema_view = get_schema_view(
     openapi.Info(
@@ -18,6 +27,15 @@ schema_view = get_schema_view(
 
 router = routers.DefaultRouter()
 router.register(r"health", HealthViewSet, basename="health")
+router.register(r"Saloon", SaloonViewSet, basename="Saloon")
+router.register(r"Auto", AutoViewSet, basename="Auto")
+router.register(r"AutoList", AutoListViewSet, basename="AutoList")
+router.register(r"Consumer", ConsumerViewSet, basename="Consumer")
+router.register(r"ConsumerHistory", ConsumerHistoryViewSet, basename="ConsumerHistory")
+router.register(r"Dealer", DealerViewSet, basename="Dealer")
+router.register(r"Offer", OfferViewSet, basename="Offer")
+router.register(r"SaloonHistory", SaloonHistoryViewSet, basename="SaloonHistory")
+router.register(r"Stock", StockViewSet, basename="Stock")
 
 
 urlpatterns = [

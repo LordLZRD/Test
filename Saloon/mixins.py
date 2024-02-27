@@ -15,7 +15,7 @@ from WSDjango.default_mixin import GetPermissionsMixin, GetSerializerMixin
 
 class SaloonMixin(
     GetSerializerMixin,
-    GetPermissionsMixin,
+    # GetPermissionsMixin,
     CreateModelMixin,
     RetrieveModelMixin,
     UpdateModelMixin,
@@ -25,7 +25,7 @@ class SaloonMixin(
 ):
 
     serializer_classes = {
-        "TODO": SaloonSerializer,
+        "list": SaloonSerializer,
     }
 
     def update(self, request, *args, **kwargs):

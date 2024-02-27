@@ -8,7 +8,7 @@ class Stock(models.Model):
     description = models.TextField()
     begin = models.DateField()
     end = models.DateField()
-    saloon_id = models.ForeignKey('Saloon', on_delete=models.PROTECT, null=True)
+    saloon_id = models.ForeignKey('Saloon.Saloon', on_delete=models.PROTECT, null=True)
 
     is_active = models.BooleanField()
     create_time = models.DateTimeField()
